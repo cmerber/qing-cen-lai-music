@@ -1,0 +1,12 @@
+{
+  "name": "qing-cen-lai-music",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test scripts/tests/*.test.mjs",
+    "sync": "node scripts/music-sync.mjs && node scripts/readme.mjs"
+  }
+}
