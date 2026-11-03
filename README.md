@@ -12,6 +12,16 @@
 
 ## 我的作品
 
+### 纸上春深
+
+<img src="music/notion/zhi-shang-chun-shen.jpg" alt="歌曲封面" width="220" />
+
+晴岑来 · 3:07 · 给旧信与归人
+
+一瓣海棠压住旧年，一封旧信留住春色。把未能说尽的珍重，唱给走过山水的人。
+
+[网站听歌](https://qcode.im/music#zhi-shang-chun-shen) · [QQ音乐](https://y.qq.com/n/ryqq_v2/songDetail/0008q3Tf05wdvv) · [下载 MP3](music/notion/zhi-shang-chun-shen.mp3) · [下载 LRC 歌词](music/notion/zhi-shang-chun-shen.lrc)
+
 ### 晚点也没关系
 
 <img src="music/notion/wan-dian.jpg" alt="歌曲封面" width="220" />
